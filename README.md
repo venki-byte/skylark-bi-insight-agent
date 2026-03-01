@@ -77,7 +77,7 @@ Streamlit application that:
 - **Self‑validating schema** – included a checker script to verify column IDs match the actual Monday board.
 
 ## 📊 Live Demo
-Try it yourself: [https://your-app-url.streamlit.app](https://your-app-url.streamlit.app)
+Try it yourself: [[https://your-app-url.streamlit.app](https://your-app-url.streamlit.app](https://skylark-bi-insight-agent-ambryhwrtkbkchcpvhvg8q.streamlit.app/))
 
 ---
 
